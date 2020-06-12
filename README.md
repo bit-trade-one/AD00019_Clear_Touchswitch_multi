@@ -8,6 +8,10 @@
 ITOを利用したセンサに比べ、低コストで静電容量タッチセンサを構築できます。
 電源と信号線を繋ぐだけで、直ぐにタッチセンサ（スイッチ）として利用する事が出来ます。
 
+## [マニュアル](https://github.com/bit-trade-one/AD00019_Clear_Touchswitch_multi/blob/master/Manual/manual_3ch.pdf)
+
+## [設定ツール](https://github.com/bit-trade-one/AD00019_Clear_Touchswitch_multi/tree/master/App)
+
 ## 製品詳細は[こちら](https://bit-trade-one.co.jp/product/module/ad00019/)!
 
 ## 製品仕様
