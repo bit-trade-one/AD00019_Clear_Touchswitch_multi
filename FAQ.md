@@ -19,3 +19,11 @@
 
 
 ---
+
+## Q.フィルムセンサの寸法を教えてください。
+
+### A.こちらに掲載しております。
+
+https://github.com/bit-trade-one/AD00019_Clear_Touchswitch_multi/blob/master/Dimensions/Z0000139_%E9%9D%99%E9%9B%BBSW_3ch_3(Ver.3).pdf
+
+---
