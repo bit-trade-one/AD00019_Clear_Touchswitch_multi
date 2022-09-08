@@ -31,7 +31,7 @@ https://github.com/bit-trade-one/AD00019_Clear_Touchswitch_multi/blob/master/Dim
 ## Q.動作原理を知りたいです。
 
 
-### A.下記ファイルをごらんください。
+### A.下記ファイルをご覧ください。
 
 https://docs.google.com/document/d/1qNfCoXIPvdKRsOKgZoD5TXSr-70OBngwhKpsTc74tmk/edit
 
