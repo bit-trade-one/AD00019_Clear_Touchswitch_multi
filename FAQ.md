@@ -27,3 +27,12 @@
 https://github.com/bit-trade-one/AD00019_Clear_Touchswitch_multi/blob/master/Dimensions/Z0000139_%E9%9D%99%E9%9B%BBSW_3ch_3(Ver.3).pdf
 
 ---
+
+## Q.動作原理を知りたいです。
+
+
+### A.下記ファイルをごらんください。
+
+https://docs.google.com/document/d/1qNfCoXIPvdKRsOKgZoD5TXSr-70OBngwhKpsTc74tmk/edit
+
+---
